@@ -1,0 +1,25 @@
+{
+  "name": "prototype1",
+  "version": "1.0.0",
+  "description": "prototype",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://uidevperson@github.com/uidevperson/prototype1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uidevperson/prototype1/issues"
+  },
+  "homepage": "https://github.com/uidevperson/prototype1#readme",
+  "dependencies": {
+    "bootstrap-vue": "^1.0.0-beta.9",
+    "jquery": "^3.2.1",
+    "popper.js": "^1.12.5",
+    "vue": "^2.4.4"
+  }
+}
